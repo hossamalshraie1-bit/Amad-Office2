@@ -252,7 +252,7 @@
 
     .slide-2 {
         background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-            url('https://c.pxhere.com/photos/a0/72/architecture_blue_skies_building_buildings_business_city_clouds_contemporary-994758.jpg!d');
+            url('https://c.pxhere.com/photos/70/c1/canary_wharf_banking_building_business_city_corporate_finance-995614.jpg!d');
         background-size: cover;
         background-position: center;
     }
@@ -277,7 +277,7 @@
         justify-content: center;
         max-width: 800px;
         text-align: center;
-        margin-right: 10%;
+        margin-right: 3%;
     }
 
     .hero-content h1 {
