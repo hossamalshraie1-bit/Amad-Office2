@@ -19,6 +19,16 @@
       "location": "جدة",
       "year": 2022,
       "modal_id": "project2"
+    },
+    {
+      "title": "تصميم واجهات",
+      "image": "/images/uploads/hamzh-1.png",
+      "description": "تصميم منزل راقي مع مواصفات وانماط حديثة وكلاسيكية",
+      "location": "السعودية",
+      "year": 2018,
+      "category_slug": "villas",
+      "category_name": "تصميم فلل",
+      "modal_id": "3"
     }
   ]
 }
