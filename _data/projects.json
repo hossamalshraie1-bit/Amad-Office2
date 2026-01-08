@@ -1,16 +1,6 @@
 {
   "projects": [
     {
-      "title": "فيلا العليا الحديثة",
-      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "description": "تصميم فيلا عصرية بمساحة 850 م² تجمع بين الخصوصية والحداثة",
-      "category_slug": "villas",
-      "category_name": "تصميم فلل",
-      "location": "إب",
-      "year": 2023,
-      "modal_id": "project1"
-    },
-    {
       "title": "برج الأعمال العالمي",
       "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       "description": "برج تجاري مكون من 40 طابق بتقنيات ذكية متطورة",
